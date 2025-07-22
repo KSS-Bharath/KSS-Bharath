@@ -8,6 +8,7 @@
 - 🎓 Final Year Student at **Sreyas Institute of Engineering and Technology**, graduating in 2026  
 - 🔭 Working on projects in **Machine Learning, Deep Learning, NLP, and Networking**
 - 💡 Exploring **Hackathons**, **Open Source**, and building end-to-end systems
+- Writing on Medium:[https://medium.com/@bharathkarnatapu7] about Artificial Intelligence and Projects
 - 📈 Recent Projects:
   - ✉️ **Spam Email Classification with GUI**
   - 🚦 **Real-Time Traffic Prediction using ML**
