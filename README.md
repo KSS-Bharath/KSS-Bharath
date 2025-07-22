@@ -1,6 +1,6 @@
-## Hi there 👋
+## Welcome to my GitHub Profile
 
-<h1 align="center">Hi 👋, I'm Bharath</h1>
+<h1 align="center">Hi 👋, I'm Bharath Karnatapu</h1>
 <h3 align="center">B.Tech CSE (AIML) | Building Real-World AI Solutions</h3>
 
 ---
