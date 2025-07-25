@@ -43,22 +43,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KSS-Bharath&theme=radical&margin-w=15&margin-h=15&no-bg=true" />
-</p>
-
----
-
-### 🌱 Contribution Heatmap
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KSS-Bharath&theme=radical" />
-</p>
-
----
-
 ### 📫 Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/bharath-karnatapu/)
