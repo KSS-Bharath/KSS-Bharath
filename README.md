@@ -3,6 +3,10 @@
 <h1 align="center">Hi 👋, I'm Bharath Karnatapu</h1>
 <h3 align="center">B.Tech CSE (AIML) | Building Real-World AI Solutions</h3>
 
+<p align="center">
+  📄 <a href="https://github.com/KSS-Bharath/KSS-Bharath.github.io/raw/main/Bharath19.pdf" target="_blank">View My Resume</a>
+</p>
+
 
 
 
