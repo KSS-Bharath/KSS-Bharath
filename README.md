@@ -7,8 +7,8 @@
 
 - 🎓 Final Year Student at **Sreyas Institute of Engineering and Technology**, graduating in 2026  
 - 🔭 Working on projects in **Machine Learning, Deep Learning, NLP, and Networking**
-- 💡 Exploring **Hackathons**, **Open Source**, and building end-to-end systems
-- Writing on Medium:[https://medium.com/@bharathkarnatapu7] about Artificial Intelligence and Projects
+- 💡 Exploring **Hackathons**, **Open Source**, and building end-to-end systems  
+- ✍️ Writing on Medium: [@bharathkarnatapu7](https://medium.com/@bharathkarnatapu7) about Artificial Intelligence and Projects  
 - 📈 Recent Projects:
   - ✉️ **Spam Email Classification with GUI**
   - 🚦 **Real-Time Traffic Prediction using ML**
@@ -35,19 +35,22 @@
 
 ---
 
+### 🔥 GitHub Streaks
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KSS-Bharath&theme=radical" />
+</p>
+
+---
+
 ### 📫 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/bharath-karnatapu/) <!-- Replace with your actual LinkedIn URL -->
+- 💼 [LinkedIn](https://www.linkedin.com/in/bharath-karnatapu/)
 - ✉️ bharathkarnatapu7@gmail.com
-- +91 9959999566
-
+- 📞 +91 9959999566
 
 ---
 
 <p align="center">
   <b>Let’s innovate, automate, and build something awesome together! 🚀</b>
 </p>
-<!--
-**KSS-Bharath/KSS-Bharath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
