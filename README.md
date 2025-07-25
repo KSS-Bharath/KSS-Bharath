@@ -3,6 +3,9 @@
 <h1 align="center">Hi 👋, I'm Bharath Karnatapu</h1>
 <h3 align="center">B.Tech CSE (AIML) | Building Real-World AI Solutions</h3>
 
+[![Portfolio](https://img.shields.io/badge/My%20Portfolio-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white)](https://KSS-Bharath.github.io)
+
+
 ---
 
 - 🎓 Final Year Student at **Sreyas Institute of Engineering and Technology**, graduating in 2026  
@@ -14,8 +17,6 @@
   - 🚦 **Real-Time Traffic Prediction using ML**
   - 🧠 **AI for Predicting Human Behavior in Social Media**
   - 🎙️ **Voice Command to Text-Based Actions**
-[![Portfolio](https://img.shields.io/badge/My%20Portfolio-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white)](https://KSS-Bharath.github.io)
-
 
 ---
 
