@@ -1,19 +1,19 @@
+## Welcome to my GitHub Profile
+
 <h1 align="center">Hi 👋, I'm Bharath Karnatapu</h1>
-<h3 align="center">B.Tech CSE (AIML) | Real-World AI Builder | Open Source Enthusiast</h3>
+<h3 align="center">B.Tech CSE (AIML) | Building Real-World AI Solutions</h3>
 
 ---
 
-### 🙋‍♂️ About Me
-
-- 🎓 Final Year at **Sreyas Institute of Engineering & Technology**, graduating 2026  
-- 🔍 Exploring **Machine Learning, NLP, Deep Learning**, and **Network Security**
-- 🏆 Participating in Hackathons and building **end-to-end systems**
-- ✍️ Sharing AI blogs on [Medium](https://medium.com/@bharathkarnatapu7)
-- ⚡ Recent Projects:
-  - ✉️ Spam Email Classification (GUI)
-  - 🚦 Real-Time Traffic Prediction
-  - 🧠 Social Media Behavior Prediction
-  - 🎙️ Voice Command → Action App
+- 🎓 Final Year Student at **Sreyas Institute of Engineering and Technology**, graduating in 2026  
+- 🔭 Working on projects in **Machine Learning, Deep Learning, NLP, and Networking**
+- 💡 Exploring **Hackathons**, **Open Source**, and building end-to-end systems  
+- ✍️ Sharing AI blogs on [Medium](https://medium.com/@bharathkarnatapu7) 
+- 📈 Recent Projects:
+  - ✉️ **Spam Email Classification with GUI**
+  - 🚦 **Real-Time Traffic Prediction using ML**
+  - 🧠 **AI for Predicting Human Behavior in Social Media**
+  - 🎙️ **Voice Command to Text-Based Actions**
 
 ---
 
@@ -33,9 +33,10 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+
 ---
 
-### 📈 GitHub Stats & Activity
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KSS-Bharath&show_icons=true&theme=radical" />
@@ -50,17 +51,16 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KSS-Bharath&theme=radical" />
 </p>
 
-
 ---
 
-### 📫 Let's Connect
+### 📫 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/bharath-karnatapu)
-- 📧 bharathkarnatapu7@gmail.com
-- 📱 +91 9959999566
+- 💼 [LinkedIn](https://www.linkedin.com/in/bharath-karnatapu/)
+- ✉️ bharathkarnatapu7@gmail.com
+- 📞 +91 9959999566
 
 ---
 
 <p align="center">
-  <b>Let's innovate, automate, and solve real-world problems with AI! 🚀</b>
+  <b>Let’s innovate, automate, and build something awesome together! 🚀</b>
 </p>
