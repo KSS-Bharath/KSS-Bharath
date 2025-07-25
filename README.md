@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Bharath Karnatapu</h1>
 <h3 align="center">B.Tech CSE (AIML) | Building Real-World AI Solutions</h3>
 
-[![Portfolio](https://img.shields.io/badge/My%20Portfolio-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white)](https://KSS-Bharath.github.io)
+
 
 
 ---
