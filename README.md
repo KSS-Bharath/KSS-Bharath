@@ -29,16 +29,7 @@
 
 ---
 
-### 🚀 Featured Projects
 
-| 🛠️ Project | 🌟 Description |
-|------------|----------------|
-| ✉️ [Spam Email Classification with GUI](https://github.com/KSS-Bharath/Spam-Email-Classification) | ML-powered email classifier with a user-friendly interface |
-| 🚦 [Real-Time Traffic Prediction using ML](https://github.com/KSS-Bharath/Real-Time-Traffic-Prediction) | Forecasting congestion with regression and time-series ML |
-| 🧠 [AI for Predicting Human Behavior in Social Media](https://github.com/KSS-Bharath/AI-Human-Behavior-Prediction) | NLP-based behavior pattern analysis on social platforms |
-| 🎙️ [Voice Command to Text-Based Actions](https://github.com/KSS-Bharath/Voice-Command-Actions) | Speech recognition system with actionable outcomes |
-
----
 
 ### 🧰 Tech Stack
 
