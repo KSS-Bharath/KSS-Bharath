@@ -62,9 +62,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KSS-Bharath&layout=compact&theme=radical" height="150" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KSS-Bharath&style=flat-square&color=blue" alt="profile views" />
-</p>
+
 
 ---
 
