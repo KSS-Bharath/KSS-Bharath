@@ -50,13 +50,7 @@
 
 ---
 
-### 🔥 GitHub Streaks
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KSS-Bharath&theme=radical" />
-</p>
-
----
 
 ### 📫 Connect with Me
 
