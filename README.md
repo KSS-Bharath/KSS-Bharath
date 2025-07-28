@@ -21,6 +21,8 @@
   - 🚦 *Real-Time Traffic Prediction using ML*
   - 🧠 *AI for Predicting Human Behavior in Social Media*
   - 🎙 *Voice Command to Text-Based Actions*
+
+
 - 🧠 Learning Reinforcement Learning and AutoML  
 - 🛠️ Participating in Hackathons & Open Source Projects  
 - ✍️ Writing AI blogs on [Medium](https://medium.com/@bharathkarnatapu7)
