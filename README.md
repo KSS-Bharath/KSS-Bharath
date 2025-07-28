@@ -23,9 +23,9 @@
   - 🎙 *Voice Command to Text-Based Actions*
 
 
-- 🧠 Learning Reinforcement Learning and AutoML  
-- 🛠️ Participating in Hackathons & Open Source Projects  
-- ✍️ Writing AI blogs on [Medium](https://medium.com/@bharathkarnatapu7)
+🧠 Learning Reinforcement Learning and AutoML  
+🛠️ Participating in Hackathons & Open Source Projects  
+✍️ Writing AI blogs on [Medium](https://medium.com/@bharathkarnatapu7)
 
 ---
 
