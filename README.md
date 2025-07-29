@@ -33,10 +33,10 @@
 
 | 🛠️ Project | 🌟 Description |
 |------------|----------------|
-| ✉️ [Spam Email Classification with GUI]| ML-powered email classifier with a user-friendly interface |
-| 🚦 [Real-Time Traffic Prediction using ML]| Forecasting congestion with regression and time-series ML |
-| 🧠 [AI for Predicting Human Behavior in Social Media]| NLP-based behavior pattern analysis on social platforms |
-| 🎙️ [Voice Command to Text-Based Actions] | Speech recognition system with actionable outcomes |
+| ✉️ Spam Email Classification with GUI| ML-powered email classifier with a user-friendly interface |
+| 🚦 Real-Time Traffic Prediction using ML| Forecasting congestion with regression and time-series ML |
+| 🧠 AI for Predicting Human Behavior in Social Media| NLP-based behavior pattern analysis on social platforms |
+| 🎙️ Voice Command to Text-Based Actions | Speech recognition system with actionable outcomes |
 
 ---
 
