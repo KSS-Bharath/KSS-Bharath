@@ -27,7 +27,8 @@
 🛠️ Participating in Hackathons & Open Source Projects  
 ✍️ Writing AI blogs on [Medium](https://medium.com/@bharathkarnatapu7)
 
-📄 **[Download My Resume](Bharath19.pdf)**
+📄 **[Download My Resume](https://github.com/KSS-Bharath/KSS-Bharath/raw/main/Bharath19.pdf)**
+
 
 ---
 
